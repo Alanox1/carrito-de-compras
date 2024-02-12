@@ -18,6 +18,9 @@ module.exports = {
       colors: {
         'dodgerblue': '#1E90FF',
       },
+      boxShadow: {
+        '3xl': '0 0px 10px rgba(0, 0, 0, 0.5)',
+      }
     },
   },
   plugins: [],
