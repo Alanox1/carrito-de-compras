@@ -1,7 +1,6 @@
-import {Product} from "./types";
 
 const api = {
-  list: async (): Promise<Product[]> => [
+  list: async () => [
     {
       id: "estampitancy-trainee",
       title: "Estampitancy Trainee",

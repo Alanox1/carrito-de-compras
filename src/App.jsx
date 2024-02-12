@@ -1,6 +1,7 @@
 import ProductsPage from "./components/pages/productsPage/ProductsPage" 
 import Carrito from "./components/pages/carrito/Carrito"
 import Footer from "./components/pages/footer/Footer"
+
 function App() {
   
   return (
