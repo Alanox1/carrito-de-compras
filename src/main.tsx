@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import ProductsProvider from "./context/Products"
+import ProductsProvider from "./context/Products.jsx"
 import "./index.css";
 
 ReactDOM.render(
